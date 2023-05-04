@@ -3,7 +3,7 @@
 
   <!-- Trees -->
   
-  <project path="device/xiaomi/violet" name="abhishekpeddada/device_xiaomi_violet-1" remote="github" revision="cr" clone-depth="1" />
+  <project path="device/xiaomi/violet" name="abhishekpeddada/device_xiaomi_violet-1" remote="github" revision="lineage" clone-depth="1" />
   <project path="vendor_xiaomi_violet" name="athizz2005/vendor_xiaomi_violet" remote="github" revision="thirteen" clone-depth="1" />
   <project path="kernel/xiaomi/violet" name="athizz2005/kernel_xiaomi_violet" remote="github" revision="thirteen" clone-depth="1" />
   <project path="vendor/MiuiCamera" name="Joker-V2/android_vendor_MiuiCamera" remote="gitlab" revision="thirteen" clone-depth="1" />
